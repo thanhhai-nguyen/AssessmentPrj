@@ -4,7 +4,7 @@ Pre-require:
 Machine must be pre-installed:
 - Java JDK
 - Eclipse IDE (or other IDE support Java)
-- Eclipse pre-install cucumber plugin (install guide: https://www.toolsqa.com/cucumber/install-cucumber-eclipse-plugin/#:~:text=Steps%20to%20follow%3A,Click%20OK.)
+- Eclipse pre-install cucumber plugin [MUST] (install guide: https://www.toolsqa.com/cucumber/install-cucumber-eclipse-plugin/#:~:text=Steps%20to%20follow%3A,Click%20OK.)
 
 How to run:
 1. Download/Clone project from Github
