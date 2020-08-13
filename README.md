@@ -1,3 +1,5 @@
+This is a Java with Cucumber project. Test case is written with BDD format.
+
 Pre-require:
 Machine must be pre-installed:
 - Java JDK
@@ -15,3 +17,9 @@ How to run:
 
 
 NOTE: this auto is run with Chromedriver and Google Chrome version 84. If your computer is run in newer Chrome version then please visit: https://chromedriver.chromium.org/ download suitable driver version and OVERRIDE on existed chromedriver of project.
+
+
+Mechanism: 
+- Auto will read test case in "feature" folder and read action in "stepDefinition" folder. If you want to change process or folder name, please update new name in "runner"-> "TestRunner.java" file
+- All action code will locate in "action" folder
+- All testcase step and handler is location is "stepDefinition" folder
